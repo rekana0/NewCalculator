@@ -9,4 +9,6 @@ public class Calculator {
 
             return result;
     }
+   public static double multiblication(double num1, double nume2){
+      return num2* num2;
 }
