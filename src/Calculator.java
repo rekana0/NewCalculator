@@ -4,4 +4,7 @@ public class Calculator {
             return num1+num2;
 
     }
+    public static double substrack(double a, double b){
+            return a-b;
+    }
 }
