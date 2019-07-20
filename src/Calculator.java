@@ -5,6 +5,8 @@ public class Calculator {
 
     }
     public static double substrack(double a, double b){
-            return a-b;
+            double result= a-b;
+
+            return result;
     }
 }
