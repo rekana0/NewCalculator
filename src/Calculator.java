@@ -11,4 +11,5 @@ public class Calculator {
     }
    public static double multiblication(double num1, double nume2){
       return num2* num2;
+      //new update 1
 }
