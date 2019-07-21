@@ -9,7 +9,7 @@ public class Calculator {
 
             return result;
     }
-   public static double multiblication(double num1, double nume2){
+   public static double multiblication(double num1, double num2){
       return num2* num2;
       //new update 1
 }
